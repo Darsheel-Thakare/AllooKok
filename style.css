@@ -1,0 +1,38 @@
+#app {
+    height: 800px;
+    width: 100%;
+    background-color: darkorange;
+}
+.line {
+    height: 6px;
+    background-color: burlywood;
+    width: 70px;
+    margin: 8px auto;
+    
+}
+#myCarousel {
+background-color: coral;
+
+}
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+    
+}
+.carousel-inner p{
+
+margin-bottom: 15px;
+margin-top: 15px;
+color: deepskyblue;
+font-size: 20px;
+}
+
+body {
+    text-align: center;
+    
+}
+#botchat {
+    height: 800px;
+    width: 100%;
+    background-color: darkgoldenrod;
+}
